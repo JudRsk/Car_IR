@@ -1,5 +1,5 @@
 # Car_IR
-Arduino project for a car that has 3 options. Manual steering, automatically steering by avoiding objects and following a black line. An Infrared controller is used to choose one of three options. The infrared controller is also used for manual steering. 
+Arduino project for a car that has 3 options. Manual steering, automatic steering to avoid objects and can follow a black line. An Infrared controller is used to choose one of the three options. The infrared controller is also used for manual steering. 
 
 ![b2ab896e-b33c-4449-a2aa-10bed266db97](https://github.com/JudRsk/Car_IR/assets/79409725/8a3dfe32-b407-4720-9692-99a79d8c63b8)
 
